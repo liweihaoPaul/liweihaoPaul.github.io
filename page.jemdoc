@@ -1,5 +1,5 @@
 # jemdoc: addcss{css/jemdoc.css}
-# jemdoc: menu{MENU}{link.html}, nofooter  
+# jemdoc: menu{MENU}{page.html}, nofooter  
 
 == Personal website
 - [https://terrytao.wordpress.com/about/ Terrence Tao]
@@ -14,6 +14,7 @@
 - [https://ocw.mit.edu/courses/find-by-topic/ MIT opencourse]: lecture notes
 - [https://www.msri.org/workshops/809/schedules/ MSRI]: Mathematical Sciences Research Institute, workshop video
 - [https://www.papersapp.com/features/ Papers]: Reference management applications 
+- [https://simons.berkeley.edu/ Simons Institute]: Theoretical seminar for CS and STAT
 
 == Recommended reading
 . High dimension
@@ -25,7 +26,7 @@
   .. Terence Tao, Topics in random matrix theory 
   .. Jack William Silverstein and Zhidong Bai, Spectral Analysis of Large Dimensional Random Matrices
 . Nonparametric
-  .. Alexandre B. Tsybakov, Introduction to Nonparametric Estimation
+  .. Alexandre B. Tsybakov, Introduction to Nonparametric Estimation [https://drive.google.com/drive/folders/1_hKD0gIc4_M6Lfrbj8BqjGeKviOmizxU?usp=sharing notes]
   .. Iain M. Johnstone, [http://statweb.stanford.edu/~imj/ Gaussian estimation: Sequence and wavelet models]
 . Asymptotic
   .. Aad van der Vaart, Asymptotic Statistics
