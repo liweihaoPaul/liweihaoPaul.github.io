@@ -1,0 +1,6 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: menu{MENU}{talks.html}, nofooter  
+
+== Conference Talks == 
+- Bayesian inference on Cox regression models using catalytic prior distributions \n
+  The 12th conference of the Asian Regional Section of the International Association for Statistical Computing (IASC-ARS) \[[notes/iascars.pdf slides]\]

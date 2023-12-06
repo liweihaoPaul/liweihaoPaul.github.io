@@ -1,0 +1,5 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: menu{MENU}{papers.html}, nofooter  
+
+== Preprints 
+- [https://arxiv.org/abs/2312.01411 Bayesian inference on Cox regression models using catalytic prior distributions]\n Weihao Li, Dongming Huang.
