@@ -1,6 +1,0 @@
-# jemdoc: addcss{css/jemdoc.css}
-# jemdoc: menu{MENU}{papers.html}, nofooter  
-
-== Preprints 
-- [https://arxiv.org/abs/2312.01411 Bayesian inference on Cox regression models using catalytic prior distributions] (under review)\n Weihao Li, Dongming Huang. 2023+
-- [https://arxiv.org/abs/2407.04194 Using Synthetic Data to Regularize Maximum Likelihood Estimation] (under review)\n Weihao Li, Dongming Huang. 2024+
