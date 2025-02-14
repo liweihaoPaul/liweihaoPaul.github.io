@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{talks.html}
+
+
+== Conference Talks == 
+- Bayesian inference on Cox regression models using catalytic prior distributions \n
+  The 12th conference of the Asian Regional Section of the International Association for Statistical Computing (IASC-ARS) \[[notes/iascars.pdf slides]\]
+- Asymptotics of regularized logistic regression based on catalytic priors \n
+  ICSA 2024 China Conference
+- Asymptotics of regularized logistic regression based on catalytic priors \n
+  THE 2nd JOINT CONFERENCE ON STATISTICS AND DATA SCIENCE IN CHINA (JCSDS)
+- Using Synthetic Data to Regularize Maximum Likelihood Estimation \n
+  The 7th International Conference on Econometrics and Statistics (EcoSta 2024)
+- Using Synthetic Data to Regularize Maximum Likelihood Estimation \n
+  The Joint Statistical Meetings (JSM 2024)
+
+
+
+

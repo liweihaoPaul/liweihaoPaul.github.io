@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{blog.html} 
+
+== Some reading notes 
+- Classical high dimensional tools \[[notes/HDPnotes.pdf notes]\]
+- Random Matrix theory on likelihood ratio test \[[notes/Topic_in_random_matrix_theory.pdf notes]\]
+- Knockoff statistic (play with shiny app [https://liweihaopaulstatistics.shinyapps.io/Interactive-knockoff/ link]	) \[[notes/knockoff_proj.pdf notes]\]
+- Low rank matrix estimation  \[[notes/Low_rank_matrix_estimation.pdf notes]\]
+- High dimensional time series, graphical model \[[notes/High_dimension_Time_series.pdf notes]\]
+- Conformal \[[notes/conformal_knowledge.pdf notes1]\] \[[notes/conformal_ppt.pdf notes2]\]
+- Derivative estimation using GP \[[notes/MAGI_PPT_notes.pdf notes]\]
+- Nonparametric classification \[[notes/nonpara_classification.pdf notes]\]
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{index.html} 
+
+
+
+~~~
+{}{img_left}{./images/lwh.JPG}{300}{300}{Weihao Li}
+Weihao Li, Ph.D. \n
+[https://www.stat.nus.edu.sg/ Department of Statistics and Data Science]\n
+ National University of Singapore \n
+
+{{
+<a href="https://www.linkedin.com/in/weihao-li-72b13a159/"><img src="./images/linkedin-logo.png" style="width:30px;height:30px;"></a>
+<a href="https://github.com/liweihaoPaul"><img src="./images/github-logo.png" style="width:30px;height:30px;"></a>
+<a href="https://rpubs.com/selectiveinferencepaul"><img src="./images/rpub.jpg" style="width:30px;height:30px;"></a>
+<a href="https://www.youtube.com/channel/UCssBgRKBC9KGBJr0sQZVkRQ"><img src="./images/youtube.png" style="width:30px;height:30px;"></a>
+<a href="https://math.stackexchange.com/questions/4092235/bound-on-operator-norm-of-goe-using-gaussian-comparison-inequality"><img src="./images/stackmath.png" style="width:30px;height:30px;"></a>
+}}
+~~~
+
+== Biography
+I am currently a Ph.D. student at Department of Statistics and Applied Probability, National University of Singapore (NUS), under the supervision of [https://blog.nus.edu.sg/stahd/ Prof. Dongming Huang].
+Previously, I received my Master degree in the Department of Statistics from [https://stat.uchicago.edu/ The  University of Chicago] in 2021 advised by [https://www.stat.uchicago.edu/~wbwu/ Prof. Wei-Biao Wu]. I received my B.S. in the Department of Statistics from [https://www.sta.cuhk.edu.hk/default.aspx The Chinese University of Hong Kong (CUHK)] in 2019. 
+
+== Contact
+Email: weihao.li \[at\] u.nus.edu\n
+
+== Research Interest
+- High dimension Statistics
+- Diffusion model and deep learning
+- Statistical machine learning
+- Selective inference 
+
+
+
+
+
+
