@@ -1,11 +1,11 @@
-# jemdoc: menu{MENU}{index.html} 
+# jemdoc: menu{MENU}{index.html}
 
 
 
 ~~~
 {}{img_left}{./images/lwh.JPG}{300}{300}{Weihao Li}
 Weihao Li,  \n
-[https://www.stat.nus.edu.sg/ Department of Statistics and Data Science]\n
+[https://www.stat.tsinghua.edu.cn/en/ Department of Statistics and Data Science]\n
  Tsinghua University   \n
 
 {{
@@ -25,10 +25,9 @@ Previously, I received my Master degree in the Department of Statistics from [ht
 Email: liweihao \[at\] tsinghua.edu.cn\n
 
 == Research Interest
-- High dimension Statistics
-- Diffusion model and deep learning
-- Statistical machine learning
-- Selective inference 
+- High-dimensional statistics and statistical learning: regularization, variable selection, transfer learning, and synthetic data
+- Computational biology and biomedicine: spatial transcriptomics and virtual cell prediction
+- Quantum computing and molecular design: binary optimization, protein structure generation, and small-molecule drug design
 
 
 

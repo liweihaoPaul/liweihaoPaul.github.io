@@ -2,14 +2,39 @@
 
 == Preprints & Publications
 
-- [https://arxiv.org/abs/2312.01411 Bayesian Inference on Cox Regression Models Using Catalytic Prior Distributions]  \n
+- [https://arxiv.org/abs/2312.01411 Bayesian Inference for Cox Regression Models Using Catalytic Prior Distributions]  \n
   Weihao Li, Dongming Huang. \n
   Biometrics, 2026
 
-- [https://arxiv.org/abs/2407.04194 Using Synthetic Data to Regularize Maximum Likelihood Estimation]  \n
+- [https://arxiv.org/abs/2407.04194 Regularization Using Synthetic Data for High-Dimensional Inference]  \n
   Weihao Li, Dongming Huang. \n
   Electronic Journal of Statistics, 2026
 
 - [http://doi.org/10.1093/jrsssb/qkaf032 Goodness-of-Fit Tests for High-Dimensional Gaussian Graphical Models via Exchangeable Sampling]  \n 
   Xiaotong Lin, Weihao Li, Fangqiao Tian, and Dongming Huang. \n  
   Journal of the Royal Statistical Society: Series B (Statistical Methodology), 2025
+
+- Signal Strength Estimation in Logistic Regression Using Data Splitting \n
+  Weihao Li, Jun S. Liu. \n
+  Proceedings of the 43rd International Conference on Machine Learning (ICML), 2026
+
+- Scale Calibration and False Discovery Rate Control in Proportional-Dimensional Generalized Linear Models \n
+  Weihao Li, Jun S. Liu. \n
+  Unpublished preprint, 2026
+
+- Estimation of Coefficient Functionals in High-Dimensional Logistic Regression \n
+  Weihao Li, Shunxing Yan, Jun S. Liu. \n
+  Unpublished preprint, 2026
+
+- [https://arxiv.org/abs/2603.00408 Exact and Asymptotically Complete Robust Verifications of Neural Networks via Ising Solvers] \n
+  Wenxin Li, Wenchao Liu, Anzhe Jiang, Weihao Li, Chuan Wang, Qi Gao, Yin Ma, Hai Wei, Kai Wen. \n
+  arXiv:2603.00408, 2026
+
+- [https://arxiv.org/abs/2511.08314 Improving the Accuracy and Generalizability of Molecular Property Regression Models with a Substructure-Substitution-Rule-Informed Framework] \n
+  Xiaoyu Fan, Lin Guo, Ruizhen Jia, Yang Tian, Zhihao Yang, Weihao Li, Boxue Tian. \n
+  Chemical Science, 2026
+
+== Software
+
+- [https://CRAN.R-project.org/package=catalytic catalytic: Tools for Applying Catalytic Priors in Statistical Modeling] \n
+  Yitong Wu, Dongming Huang, Weihao Li, and Ministry of Education, Singapore. R package, 2024

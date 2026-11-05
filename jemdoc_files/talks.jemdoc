@@ -1,11 +1,13 @@
 # jemdoc: menu{MENU}{talks.html}
 
 
-== Conference Talks == 
+== Conference Talks and Posters
+- Signal Strength Estimation in Logistic Regression Using Data Splitting \n
+  ICML 2026, poster
 - Bayesian inference on Cox regression models using catalytic prior distributions \n
   The 12th conference of the Asian Regional Section of the International Association for Statistical Computing (IASC-ARS) \[[notes/iascars.pdf slides]\]
 - Asymptotics of regularized logistic regression based on catalytic priors \n
-  ICSA 2024 China Conference
+  ICSA 2024 China Conference, poster
 - Asymptotics of regularized logistic regression based on catalytic priors \n
   THE 2nd JOINT CONFERENCE ON STATISTICS AND DATA SCIENCE IN CHINA (JCSDS)
 - Using Synthetic Data to Regularize Maximum Likelihood Estimation \n
